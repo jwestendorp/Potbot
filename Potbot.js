@@ -6,6 +6,9 @@ const auth = require("./auth.json");
 
 var potmensen = [];
 
+
+//kut
+
 client.on("ready", () => {
     console.log("de potbot is aan het lopen");
 });
